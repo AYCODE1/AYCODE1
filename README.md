@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AYCODE1
 - 👀 I’m interested in Data Analysis and visualization
-- 🌱 I’m currently learning Sql and power BI in addition to my knowledge on python
+- 🌱 I’m currently learning Sql and power BI in addition to my knowledge of python
 - 💞️ I’m looking to collaborate on projects as a volunteer
 - 📫 How to reach me fash2g2@yahoo.com
 
