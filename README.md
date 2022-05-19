@@ -1,7 +1,8 @@
-- 👋 Hi, I’m @AYCODE1
+- 👋 Hi, I’m Ayomide Olarewaju
 - 👀 I’m interested in Data Analysis and visualization
 - 🌱 I’m currently learning Sql and power BI in addition to my knowledge of python
 - 💞️ I’m looking to collaborate on projects as a volunteer
+- 💞️ I'm open to Data Analyst/ Science jobs.
 - 📫 How to reach me fash2g2@yahoo.com
 
 <!---
